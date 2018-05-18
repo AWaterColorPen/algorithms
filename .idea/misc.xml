@@ -4,6 +4,7 @@
   <component name="CidrRootsConfiguration">
     <sourceRoots>
       <file path="$PROJECT_DIR$/datastructures" />
+      <file path="$PROJECT_DIR$/graph" />
       <file path="$PROJECT_DIR$/math" />
     </sourceRoots>
   </component>
